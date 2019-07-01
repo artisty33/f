@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fenjan Tea London",
-    "currentPage": "page8.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -23,7 +23,7 @@
         "display7Size": 1,
         "display4Font": "Rubik",
         "display4Size": 1,
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
